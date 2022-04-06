@@ -1,3 +1,4 @@
 *.log
 note.py
 dummy-flask-app.cfg
+.DS_Store
